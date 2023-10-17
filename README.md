@@ -1,5 +1,5 @@
 
-# Repositorio de prueba
+# CampusShop
 
 ## Contexto 🚀
 
