@@ -24,7 +24,7 @@ El E-commerce filtra de manera muy intutiva el tipo de prenda que el usuario des
 1. **Clona el Repositorio**:
 
     ```bash
-    git clone https://github.com/Santiago24x/presupuestoCasa.git
+    git clone https://github.com/Santiago24x/CampusShop.git
     ```
 
 2. **Instala las Dependencias**:
